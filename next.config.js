@@ -6,7 +6,7 @@ const nextConfig = {
                 protocol: 'https',
                 hostname: 'maps.googleapis.com',
                 port: '',
-                pathname: '*',
+                pathname: '**',
             },
         ],
     }
